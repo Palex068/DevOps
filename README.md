@@ -1,22 +1,28 @@
-# Курсы
+# Оглавление
 
-## [Программа. Linux: с нуля до сертификата](/Linux_to_certificate/README.md)
+## Курсы
 
-# Статьи
+[Программа. Linux: с нуля до сертификата](/Linux_to_certificate/README.md)
 
-## [Как установить Linux на виртуальную машину](/Articles/01_How_to_install_Linux_on_a_virtual_machine.md)
-## [Материалы S21 DO1_Linux](/Articles/02_S21_Materials_DO1_Linux.md)
-## [Как стать DevOps инженером](/Articles/03_Howto_DevOps.md)
+## Статьи
 
-# Команды
+[Как установить Linux на виртуальную машину](/Articles/01_How_to_install_Linux_on_a_virtual_machine.md)
 
-## [Команда top](/Articles/04_Command_top.md)
+[Материалы S21 DO1_Linux](/Articles/02_S21_Materials_DO1_Linux.md)
 
-# Ссылки
-## [Библиотека сайта rus-linux.net](https://rus-linux.net/lib.php?name=/MyLDP/index.html)
+[Как стать DevOps инженером](/Articles/03_Howto_DevOps.md)
 
+## Команды
 
-# В работу
+[Команда top](/Articles/04_Command_top.md)
+
+## Ссылки
+
+[Библиотека сайта rus-linux.net](https://rus-linux.net/lib.php?name=/MyLDP/index.html)
+
+[$ information Security Squad](https://itsecforu.ru/)
+
+## В работу
 
 + [Developer Roadmaps](https://roadmap.sh/roadmaps)
 + [Как стать DevOps инженером за полгода или даже быстрее. Часть 1. Введение](https://habr.com/ru/companies/ua-hosting/articles/500996/)
