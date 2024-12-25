@@ -12,6 +12,10 @@
 
 [Как стать DevOps инженером](/Articles/03_Howto_DevOps.md)
 
+### DHCP
+
+[Настройка DHCP сервера на Linux](./Articles/DHCP/01_Configuring_a_DHCP_server_on_Linux.md)
+
 ## Команды
 
 [Команда top](/Articles/04_Command_top.md)
