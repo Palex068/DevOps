@@ -16,6 +16,10 @@
 
 [Настройка DHCP сервера на Linux](./Articles/DHCP/01_Configuring_a_DHCP_server_on_Linux.md)
 
+### Bash
+
+[Краткое введение в программирование на Bash](./Bash/Introduction_to_Bash_Programming/README.md)
+
 ## Команды
 
 [Команда top](/Articles/04_Command_top.md)
@@ -28,6 +32,7 @@
 
 ## В работу
 
++ [Искусство написания Bash-скриптов](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 + [Developer Roadmaps](https://roadmap.sh/roadmaps)
 + [Как стать DevOps инженером за полгода или даже быстрее. Часть 1. Введение](https://habr.com/ru/companies/ua-hosting/articles/500996/)
 + [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
