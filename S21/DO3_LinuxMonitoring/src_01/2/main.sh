@@ -3,7 +3,7 @@
 function out()
 {
 echo "HOSTNAME  = $HOSTNAME"
-echo "TIMEZONE  = $(cat /etc/timezone) UTC $timez"
+echo "TIMEZONE  = $(timedatectl | awk '{print $3 $4 $5}' | grep Moscow)"
 echo "USER      = $USER"
 echo "OS        = $(hostnamectl | grep System | sed -r s/'[^:]+:'/''/)"
 echo "DATE      = $(date | awk '{print $2, $3, $4, $5}')"
