@@ -1,5 +1,5 @@
 #!/bin/bash
-#!/bin/bash
+
 export START=$(date +%s%N)
 if [ $# != 1 ]
 then
