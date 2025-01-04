@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 if [ $# -eq 1 ]; then
     bash prov_na_digit.sh $1
