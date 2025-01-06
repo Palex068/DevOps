@@ -77,7 +77,7 @@ elif [[ ${mass[$i]} == 2 ]]
     color[$i]="(red)"
 elif [[ ${mass[$i]} == 3 ]]
     then
-    color[$i] = "(green)"
+    color[$i]="(green)"
 elif [[ ${mass[$i]} == 4 ]]
     then
     color[$i]="(blue)"
