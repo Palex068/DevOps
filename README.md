@@ -24,7 +24,7 @@
 
 ### Docker
 
-[Установка и настройка Docker на Windows Subsystem Linux (WSL2)](./Articles/Docker/01_Installing_and_configuring_Docker_on_Windows_Subsystem_Linux_(WSL2).md)
+[Установка и настройка Docker на Windows Subsystem Linux (WSL2)](./Docker/01_Installing_and_configuring_Docker_on_Windows_Subsystem_Linux_(WSL2).md)
 
 ## Команды
 
